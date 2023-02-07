@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0">
+    <testcase classname="Application Login" name="Home page login" time="0">
+        <skipped><![CDATA[Given User is on NetBanking landing page....................................undefined
+When User login into application with username and password.................undefined
+Then Home page is displayed.................................................undefined
+]]></skipped>
+    </testcase>
+</testsuite>
